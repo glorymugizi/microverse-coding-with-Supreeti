@@ -1,6 +1,5 @@
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
-    "Helvetica Neue", Arial, sans-serif;
+  font-family: Georgia, serif;
   font-size: 1.6rem;
   line-height: 1.5;
   text-align: center;
@@ -20,7 +19,6 @@ body {
 }
 #img-div {
   width: 100%;
-  text-align: center;
   background: white;
   padding: 10px;
   margin: 0;
@@ -28,6 +26,8 @@ body {
 #image {
   max-width: 100%;
   display: block;
+  text-align: center;
+  margin: auto;
 }
 ul {
   max-width: 550px;
